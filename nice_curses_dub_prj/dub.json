@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Adnan Erdoğan"
+	],
+	"copyright": "Copyright © 2022, Adnan Erdoğan",
+	"dependencies": {
+		"nice-curses": "~>0.2.5"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dub1"
+}
